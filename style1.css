@@ -1,0 +1,39 @@
+Body{
+    background-image: url("./images/background.webp");
+    background-repeat: no-repeat;
+    margin: 0px 30px;
+    
+    
+     
+}
+h2{
+    color: rgb(114, 20, 20);
+    font-size: 2rem;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
+.soustitre{
+    text-align: center;
+}
+.image{
+    float: right;
+    
+}
+.image img{
+    border-radius: 100% ;
+    border:solid;
+    border-width: thick;
+    border-color: brown;
+    width: 170px;
+}
+section{
+    margin-top: 30px;
+    
+}
+ .import, .soustitre, li {
+    font-size: 1,3rem;
+ }
+
+ 
